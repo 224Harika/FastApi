@@ -4,17 +4,29 @@ This project is a backend application implemented using Python. It includes vari
 **Project Structure**
 
 App/
+
 ├── .ENV
+
 ├── crud.py
+
 ├── database.py
+
 ├── main.py
+
 ├── models.py
+
 ├── schemas.py
+
 └── API/
+
     ├── alembic.ini
+    
     ├── configuration.py
+    
     └── requirements.txt
+    
 **Files and Directories**
+
 .ENV: Environment configuration file containing sensitive information such as database credentials.
 crud.py: Handles Create, Read, Update, and Delete operations.
 database.py: Manages database connections and interactions.
