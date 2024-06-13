@@ -14,7 +14,7 @@ App/
     ├── alembic.ini
     ├── configuration.py
     └── requirements.txt
-Files and Directories
+**Files and Directories**
 .ENV: Environment configuration file containing sensitive information such as database credentials.
 crud.py: Handles Create, Read, Update, and Delete operations.
 database.py: Manages database connections and interactions.
